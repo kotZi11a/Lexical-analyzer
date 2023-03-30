@@ -1,0 +1,1 @@
+do while k t =1-3+k loop

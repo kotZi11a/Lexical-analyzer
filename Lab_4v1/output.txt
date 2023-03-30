@@ -1,0 +1,2 @@
+do[do] while[wh] k[id] t[id] =[eq] 1[vl] -[ao] 3[vl] +[ao] k[id] loop[lp] 
+OK
